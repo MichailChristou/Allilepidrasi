@@ -1,0 +1,14 @@
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\bin\Debug\Interactionerg1.exe.config
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\bin\Debug\Interactionerg1.exe
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\bin\Debug\Interactionerg1.pdb
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form1.resources
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Properties.Resources.resources
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.exe
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.pdb
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form2.resources
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form3.resources
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form5.resources
