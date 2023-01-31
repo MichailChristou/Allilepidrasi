@@ -12,3 +12,4 @@ C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interaction
 C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form2.resources
 C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form3.resources
 C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form5.resources
+C:\Users\Mike\source\repos\Interactionerg1\Interactionerg1\obj\Debug\Interactionerg1.Form4.resources

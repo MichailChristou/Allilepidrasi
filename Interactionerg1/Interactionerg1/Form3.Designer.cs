@@ -33,9 +33,63 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.panelSlide = new System.Windows.Forms.Panel();
+            this.radioButton14 = new System.Windows.Forms.RadioButton();
+            this.radioButton13 = new System.Windows.Forms.RadioButton();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label29 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.button24 = new System.Windows.Forms.Button();
+            this.labelproduct11 = new System.Windows.Forms.Label();
+            this.productbutton11minus = new System.Windows.Forms.Button();
+            this.productbutton11plus = new System.Windows.Forms.Button();
+            this.labelproduct10 = new System.Windows.Forms.Label();
+            this.productbutton10minus = new System.Windows.Forms.Button();
+            this.productbutton10plus = new System.Windows.Forms.Button();
+            this.labelproduct9 = new System.Windows.Forms.Label();
+            this.productbutton9minus = new System.Windows.Forms.Button();
+            this.productbutton9plus = new System.Windows.Forms.Button();
+            this.labelproduct8 = new System.Windows.Forms.Label();
+            this.productbutton8minus = new System.Windows.Forms.Button();
+            this.productbutton8plus = new System.Windows.Forms.Button();
+            this.labelproduct7 = new System.Windows.Forms.Label();
+            this.productbutton7minus = new System.Windows.Forms.Button();
+            this.productbutton7plus = new System.Windows.Forms.Button();
+            this.labelproduct6 = new System.Windows.Forms.Label();
+            this.productbutton6minus = new System.Windows.Forms.Button();
+            this.productbutton6plus = new System.Windows.Forms.Button();
+            this.labelproduct5 = new System.Windows.Forms.Label();
+            this.productbutton5minus = new System.Windows.Forms.Button();
+            this.productbutton5plus = new System.Windows.Forms.Button();
+            this.labelproduct4 = new System.Windows.Forms.Label();
+            this.productbutton4minus = new System.Windows.Forms.Button();
+            this.productbutton4plus = new System.Windows.Forms.Button();
+            this.labelproduct3 = new System.Windows.Forms.Label();
+            this.productbutton3minus = new System.Windows.Forms.Button();
+            this.productbutton3plus = new System.Windows.Forms.Button();
+            this.labelproduct2 = new System.Windows.Forms.Label();
+            this.productbutton2minus = new System.Windows.Forms.Button();
+            this.productbutton2plus = new System.Windows.Forms.Button();
+            this.labelproduct1 = new System.Windows.Forms.Label();
+            this.productbutton1minus = new System.Windows.Forms.Button();
+            this.productbutton1plus = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.radioButton11 = new System.Windows.Forms.RadioButton();
@@ -59,71 +113,19 @@
             this.trackBar2 = new System.Windows.Forms.TrackBar();
             this.trackBar1 = new System.Windows.Forms.TrackBar();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.label8 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.label11 = new System.Windows.Forms.Label();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.label12 = new System.Windows.Forms.Label();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.label13 = new System.Windows.Forms.Label();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.label14 = new System.Windows.Forms.Label();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.label15 = new System.Windows.Forms.Label();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.label16 = new System.Windows.Forms.Label();
-            this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
-            this.label17 = new System.Windows.Forms.Label();
-            this.button18 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.label18 = new System.Windows.Forms.Label();
-            this.button20 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
-            this.label19 = new System.Windows.Forms.Label();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button23 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
-            this.label20 = new System.Windows.Forms.Label();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label28 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.radioButton13 = new System.Windows.Forms.RadioButton();
-            this.radioButton14 = new System.Windows.Forms.RadioButton();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label34 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.panelSlide.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -157,6 +159,16 @@
             this.panel2.Size = new System.Drawing.Size(34, 625);
             this.panel2.TabIndex = 1;
             // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(8, 11);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(18, 18);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 25;
+            this.pictureBox4.TabStop = false;
+            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
@@ -187,39 +199,39 @@
             this.panelSlide.Controls.Add(this.label21);
             this.panelSlide.Controls.Add(this.label20);
             this.panelSlide.Controls.Add(this.button24);
-            this.panelSlide.Controls.Add(this.label19);
-            this.panelSlide.Controls.Add(this.button22);
-            this.panelSlide.Controls.Add(this.button23);
-            this.panelSlide.Controls.Add(this.label15);
-            this.panelSlide.Controls.Add(this.button14);
-            this.panelSlide.Controls.Add(this.button15);
-            this.panelSlide.Controls.Add(this.label16);
-            this.panelSlide.Controls.Add(this.button16);
-            this.panelSlide.Controls.Add(this.button17);
-            this.panelSlide.Controls.Add(this.label17);
-            this.panelSlide.Controls.Add(this.button18);
-            this.panelSlide.Controls.Add(this.button19);
-            this.panelSlide.Controls.Add(this.label18);
-            this.panelSlide.Controls.Add(this.button20);
-            this.panelSlide.Controls.Add(this.button21);
-            this.panelSlide.Controls.Add(this.label13);
-            this.panelSlide.Controls.Add(this.button10);
-            this.panelSlide.Controls.Add(this.button11);
-            this.panelSlide.Controls.Add(this.label14);
-            this.panelSlide.Controls.Add(this.button12);
-            this.panelSlide.Controls.Add(this.button13);
-            this.panelSlide.Controls.Add(this.label11);
-            this.panelSlide.Controls.Add(this.button6);
-            this.panelSlide.Controls.Add(this.button7);
-            this.panelSlide.Controls.Add(this.label12);
-            this.panelSlide.Controls.Add(this.button8);
-            this.panelSlide.Controls.Add(this.button9);
-            this.panelSlide.Controls.Add(this.label10);
-            this.panelSlide.Controls.Add(this.button4);
-            this.panelSlide.Controls.Add(this.button5);
-            this.panelSlide.Controls.Add(this.label9);
-            this.panelSlide.Controls.Add(this.button3);
-            this.panelSlide.Controls.Add(this.button2);
+            this.panelSlide.Controls.Add(this.labelproduct11);
+            this.panelSlide.Controls.Add(this.productbutton11minus);
+            this.panelSlide.Controls.Add(this.productbutton11plus);
+            this.panelSlide.Controls.Add(this.labelproduct10);
+            this.panelSlide.Controls.Add(this.productbutton10minus);
+            this.panelSlide.Controls.Add(this.productbutton10plus);
+            this.panelSlide.Controls.Add(this.labelproduct9);
+            this.panelSlide.Controls.Add(this.productbutton9minus);
+            this.panelSlide.Controls.Add(this.productbutton9plus);
+            this.panelSlide.Controls.Add(this.labelproduct8);
+            this.panelSlide.Controls.Add(this.productbutton8minus);
+            this.panelSlide.Controls.Add(this.productbutton8plus);
+            this.panelSlide.Controls.Add(this.labelproduct7);
+            this.panelSlide.Controls.Add(this.productbutton7minus);
+            this.panelSlide.Controls.Add(this.productbutton7plus);
+            this.panelSlide.Controls.Add(this.labelproduct6);
+            this.panelSlide.Controls.Add(this.productbutton6minus);
+            this.panelSlide.Controls.Add(this.productbutton6plus);
+            this.panelSlide.Controls.Add(this.labelproduct5);
+            this.panelSlide.Controls.Add(this.productbutton5minus);
+            this.panelSlide.Controls.Add(this.productbutton5plus);
+            this.panelSlide.Controls.Add(this.labelproduct4);
+            this.panelSlide.Controls.Add(this.productbutton4minus);
+            this.panelSlide.Controls.Add(this.productbutton4plus);
+            this.panelSlide.Controls.Add(this.labelproduct3);
+            this.panelSlide.Controls.Add(this.productbutton3minus);
+            this.panelSlide.Controls.Add(this.productbutton3plus);
+            this.panelSlide.Controls.Add(this.labelproduct2);
+            this.panelSlide.Controls.Add(this.productbutton2minus);
+            this.panelSlide.Controls.Add(this.productbutton2plus);
+            this.panelSlide.Controls.Add(this.labelproduct1);
+            this.panelSlide.Controls.Add(this.productbutton1minus);
+            this.panelSlide.Controls.Add(this.productbutton1plus);
             this.panelSlide.Controls.Add(this.pictureBox1);
             this.panelSlide.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelSlide.Location = new System.Drawing.Point(34, 54);
@@ -227,9 +239,490 @@
             this.panelSlide.Size = new System.Drawing.Size(238, 625);
             this.panelSlide.TabIndex = 2;
             // 
+            // radioButton14
+            // 
+            this.radioButton14.AutoSize = true;
+            this.radioButton14.Location = new System.Drawing.Point(139, 565);
+            this.radioButton14.Name = "radioButton14";
+            this.radioButton14.Size = new System.Drawing.Size(57, 17);
+            this.radioButton14.TabIndex = 49;
+            this.radioButton14.TabStop = true;
+            this.radioButton14.Text = "Κάρτα";
+            this.radioButton14.UseVisualStyleBackColor = true;
+            // 
+            // radioButton13
+            // 
+            this.radioButton13.AutoSize = true;
+            this.radioButton13.Location = new System.Drawing.Point(30, 565);
+            this.radioButton13.Name = "radioButton13";
+            this.radioButton13.Size = new System.Drawing.Size(70, 17);
+            this.radioButton13.TabIndex = 48;
+            this.radioButton13.TabStop = true;
+            this.radioButton13.Text = "Μετρητά";
+            this.radioButton13.UseVisualStyleBackColor = true;
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(3, 505);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(32, 13);
+            this.label32.TabIndex = 47;
+            this.label32.Text = "Ποτό";
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(3, 479);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(36, 13);
+            this.label33.TabIndex = 46;
+            this.label33.Text = "Κρασί";
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.Location = new System.Drawing.Point(3, 453);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(40, 13);
+            this.label28.TabIndex = 45;
+            this.label28.Text = "Μπύρα";
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.Location = new System.Drawing.Point(3, 427);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(55, 13);
+            this.label29.TabIndex = 44;
+            this.label29.Text = "Επιδόρπιο";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(3, 401);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(80, 13);
+            this.label30.TabIndex = 43;
+            this.label30.Text = "Πλήρες Γεύμα ";
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Location = new System.Drawing.Point(3, 531);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(44, 13);
+            this.label25.TabIndex = 42;
+            this.label25.Text = "Κοκτέιλ";
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Location = new System.Drawing.Point(3, 375);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(52, 13);
+            this.label26.TabIndex = 41;
+            this.label26.Text = "Ορεκτικά";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Location = new System.Drawing.Point(3, 349);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(48, 13);
+            this.label27.TabIndex = 40;
+            this.label27.Text = "Γρανίτα";
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.Location = new System.Drawing.Point(6, 323);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(66, 13);
+            this.label24.TabIndex = 39;
+            this.label24.Text = "Αναψυκτικό";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(6, 297);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(94, 13);
+            this.label23.TabIndex = 38;
+            this.label23.Text = "Freddo Cappucino";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(6, 274);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(86, 13);
+            this.label22.TabIndex = 37;
+            this.label22.Text = "Freddo Espresso";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(77, 239);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(82, 13);
+            this.label21.TabIndex = 36;
+            this.label21.Text = "Τιμοκατάλογος";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(44, 14);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(143, 13);
+            this.label20.TabIndex = 35;
+            this.label20.Text = "Είμαστε στην διάθεση σας";
+            // 
+            // button24
+            // 
+            this.button24.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button24.Location = new System.Drawing.Point(54, 589);
+            this.button24.Name = "button24";
+            this.button24.Size = new System.Drawing.Size(126, 33);
+            this.button24.TabIndex = 34;
+            this.button24.Text = "Πληρωμή";
+            this.button24.UseVisualStyleBackColor = true;
+            this.button24.Click += new System.EventHandler(this.button24_Click);
+            // 
+            // labelproduct11
+            // 
+            this.labelproduct11.AutoSize = true;
+            this.labelproduct11.Location = new System.Drawing.Point(193, 531);
+            this.labelproduct11.Name = "labelproduct11";
+            this.labelproduct11.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct11.TabIndex = 33;
+            this.labelproduct11.Text = "0";
+            // 
+            // productbutton11minus
+            // 
+            this.productbutton11minus.Location = new System.Drawing.Point(167, 527);
+            this.productbutton11minus.Name = "productbutton11minus";
+            this.productbutton11minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton11minus.TabIndex = 32;
+            this.productbutton11minus.Text = "-";
+            this.productbutton11minus.UseVisualStyleBackColor = true;
+            this.productbutton11minus.Click += new System.EventHandler(this.productbutton11minus_Click);
+            // 
+            // productbutton11plus
+            // 
+            this.productbutton11plus.Location = new System.Drawing.Point(212, 527);
+            this.productbutton11plus.Name = "productbutton11plus";
+            this.productbutton11plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton11plus.TabIndex = 31;
+            this.productbutton11plus.Text = "+";
+            this.productbutton11plus.UseVisualStyleBackColor = true;
+            this.productbutton11plus.Click += new System.EventHandler(this.productbutton11plus_Click);
+            // 
+            // labelproduct10
+            // 
+            this.labelproduct10.AutoSize = true;
+            this.labelproduct10.Location = new System.Drawing.Point(193, 505);
+            this.labelproduct10.Name = "labelproduct10";
+            this.labelproduct10.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct10.TabIndex = 30;
+            this.labelproduct10.Text = "0";
+            // 
+            // productbutton10minus
+            // 
+            this.productbutton10minus.Location = new System.Drawing.Point(167, 501);
+            this.productbutton10minus.Name = "productbutton10minus";
+            this.productbutton10minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton10minus.TabIndex = 29;
+            this.productbutton10minus.Text = "-";
+            this.productbutton10minus.UseVisualStyleBackColor = true;
+            this.productbutton10minus.Click += new System.EventHandler(this.productbutton10minus_Click);
+            // 
+            // productbutton10plus
+            // 
+            this.productbutton10plus.Location = new System.Drawing.Point(212, 501);
+            this.productbutton10plus.Name = "productbutton10plus";
+            this.productbutton10plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton10plus.TabIndex = 28;
+            this.productbutton10plus.Text = "+";
+            this.productbutton10plus.UseVisualStyleBackColor = true;
+            this.productbutton10plus.Click += new System.EventHandler(this.productbutton10plus_Click);
+            // 
+            // labelproduct9
+            // 
+            this.labelproduct9.AutoSize = true;
+            this.labelproduct9.Location = new System.Drawing.Point(193, 479);
+            this.labelproduct9.Name = "labelproduct9";
+            this.labelproduct9.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct9.TabIndex = 27;
+            this.labelproduct9.Text = "0";
+            // 
+            // productbutton9minus
+            // 
+            this.productbutton9minus.Location = new System.Drawing.Point(167, 475);
+            this.productbutton9minus.Name = "productbutton9minus";
+            this.productbutton9minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton9minus.TabIndex = 26;
+            this.productbutton9minus.Text = "-";
+            this.productbutton9minus.UseVisualStyleBackColor = true;
+            this.productbutton9minus.Click += new System.EventHandler(this.productbutton9minus_Click);
+            // 
+            // productbutton9plus
+            // 
+            this.productbutton9plus.Location = new System.Drawing.Point(212, 475);
+            this.productbutton9plus.Name = "productbutton9plus";
+            this.productbutton9plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton9plus.TabIndex = 25;
+            this.productbutton9plus.Text = "+";
+            this.productbutton9plus.UseVisualStyleBackColor = true;
+            this.productbutton9plus.Click += new System.EventHandler(this.productbutton9plus_Click);
+            // 
+            // labelproduct8
+            // 
+            this.labelproduct8.AutoSize = true;
+            this.labelproduct8.Location = new System.Drawing.Point(193, 453);
+            this.labelproduct8.Name = "labelproduct8";
+            this.labelproduct8.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct8.TabIndex = 24;
+            this.labelproduct8.Text = "0";
+            // 
+            // productbutton8minus
+            // 
+            this.productbutton8minus.Location = new System.Drawing.Point(167, 449);
+            this.productbutton8minus.Name = "productbutton8minus";
+            this.productbutton8minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton8minus.TabIndex = 23;
+            this.productbutton8minus.Text = "-";
+            this.productbutton8minus.UseVisualStyleBackColor = true;
+            this.productbutton8minus.Click += new System.EventHandler(this.productbutton8minus_Click);
+            // 
+            // productbutton8plus
+            // 
+            this.productbutton8plus.Location = new System.Drawing.Point(212, 449);
+            this.productbutton8plus.Name = "productbutton8plus";
+            this.productbutton8plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton8plus.TabIndex = 22;
+            this.productbutton8plus.Text = "+";
+            this.productbutton8plus.UseVisualStyleBackColor = true;
+            this.productbutton8plus.Click += new System.EventHandler(this.button19_Click);
+            // 
+            // labelproduct7
+            // 
+            this.labelproduct7.AutoSize = true;
+            this.labelproduct7.Location = new System.Drawing.Point(193, 427);
+            this.labelproduct7.Name = "labelproduct7";
+            this.labelproduct7.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct7.TabIndex = 21;
+            this.labelproduct7.Text = "0";
+            // 
+            // productbutton7minus
+            // 
+            this.productbutton7minus.Location = new System.Drawing.Point(167, 423);
+            this.productbutton7minus.Name = "productbutton7minus";
+            this.productbutton7minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton7minus.TabIndex = 20;
+            this.productbutton7minus.Text = "-";
+            this.productbutton7minus.UseVisualStyleBackColor = true;
+            this.productbutton7minus.Click += new System.EventHandler(this.productbutton7minus_Click);
+            // 
+            // productbutton7plus
+            // 
+            this.productbutton7plus.Location = new System.Drawing.Point(212, 423);
+            this.productbutton7plus.Name = "productbutton7plus";
+            this.productbutton7plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton7plus.TabIndex = 19;
+            this.productbutton7plus.Text = "+";
+            this.productbutton7plus.UseVisualStyleBackColor = true;
+            this.productbutton7plus.Click += new System.EventHandler(this.productbutton7plus_Click);
+            // 
+            // labelproduct6
+            // 
+            this.labelproduct6.AutoSize = true;
+            this.labelproduct6.Location = new System.Drawing.Point(193, 401);
+            this.labelproduct6.Name = "labelproduct6";
+            this.labelproduct6.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct6.TabIndex = 18;
+            this.labelproduct6.Text = "0";
+            // 
+            // productbutton6minus
+            // 
+            this.productbutton6minus.Location = new System.Drawing.Point(167, 397);
+            this.productbutton6minus.Name = "productbutton6minus";
+            this.productbutton6minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton6minus.TabIndex = 17;
+            this.productbutton6minus.Text = "-";
+            this.productbutton6minus.UseVisualStyleBackColor = true;
+            this.productbutton6minus.Click += new System.EventHandler(this.productbutton6minus_Click);
+            // 
+            // productbutton6plus
+            // 
+            this.productbutton6plus.Location = new System.Drawing.Point(212, 397);
+            this.productbutton6plus.Name = "productbutton6plus";
+            this.productbutton6plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton6plus.TabIndex = 16;
+            this.productbutton6plus.Text = "+";
+            this.productbutton6plus.UseVisualStyleBackColor = true;
+            this.productbutton6plus.Click += new System.EventHandler(this.productbutton6plus_Click);
+            // 
+            // labelproduct5
+            // 
+            this.labelproduct5.AutoSize = true;
+            this.labelproduct5.Location = new System.Drawing.Point(193, 375);
+            this.labelproduct5.Name = "labelproduct5";
+            this.labelproduct5.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct5.TabIndex = 15;
+            this.labelproduct5.Text = "0";
+            // 
+            // productbutton5minus
+            // 
+            this.productbutton5minus.Location = new System.Drawing.Point(167, 371);
+            this.productbutton5minus.Name = "productbutton5minus";
+            this.productbutton5minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton5minus.TabIndex = 14;
+            this.productbutton5minus.Text = "-";
+            this.productbutton5minus.UseVisualStyleBackColor = true;
+            this.productbutton5minus.Click += new System.EventHandler(this.productbutton5minus_Click);
+            // 
+            // productbutton5plus
+            // 
+            this.productbutton5plus.Location = new System.Drawing.Point(212, 371);
+            this.productbutton5plus.Name = "productbutton5plus";
+            this.productbutton5plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton5plus.TabIndex = 13;
+            this.productbutton5plus.Text = "+";
+            this.productbutton5plus.UseVisualStyleBackColor = true;
+            this.productbutton5plus.Click += new System.EventHandler(this.productbutton5plus_Click);
+            // 
+            // labelproduct4
+            // 
+            this.labelproduct4.AutoSize = true;
+            this.labelproduct4.Location = new System.Drawing.Point(193, 349);
+            this.labelproduct4.Name = "labelproduct4";
+            this.labelproduct4.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct4.TabIndex = 12;
+            this.labelproduct4.Text = "0";
+            // 
+            // productbutton4minus
+            // 
+            this.productbutton4minus.Location = new System.Drawing.Point(167, 345);
+            this.productbutton4minus.Name = "productbutton4minus";
+            this.productbutton4minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton4minus.TabIndex = 11;
+            this.productbutton4minus.Text = "-";
+            this.productbutton4minus.UseVisualStyleBackColor = true;
+            this.productbutton4minus.Click += new System.EventHandler(this.productbutton4minus_Click);
+            // 
+            // productbutton4plus
+            // 
+            this.productbutton4plus.Location = new System.Drawing.Point(212, 345);
+            this.productbutton4plus.Name = "productbutton4plus";
+            this.productbutton4plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton4plus.TabIndex = 10;
+            this.productbutton4plus.Text = "+";
+            this.productbutton4plus.UseVisualStyleBackColor = true;
+            this.productbutton4plus.Click += new System.EventHandler(this.productbutton4plus_Click);
+            // 
+            // labelproduct3
+            // 
+            this.labelproduct3.AutoSize = true;
+            this.labelproduct3.Location = new System.Drawing.Point(193, 323);
+            this.labelproduct3.Name = "labelproduct3";
+            this.labelproduct3.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct3.TabIndex = 9;
+            this.labelproduct3.Text = "0";
+            // 
+            // productbutton3minus
+            // 
+            this.productbutton3minus.Location = new System.Drawing.Point(167, 319);
+            this.productbutton3minus.Name = "productbutton3minus";
+            this.productbutton3minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton3minus.TabIndex = 8;
+            this.productbutton3minus.Text = "-";
+            this.productbutton3minus.UseVisualStyleBackColor = true;
+            this.productbutton3minus.Click += new System.EventHandler(this.productbutton3minus_Click);
+            // 
+            // productbutton3plus
+            // 
+            this.productbutton3plus.Location = new System.Drawing.Point(212, 319);
+            this.productbutton3plus.Name = "productbutton3plus";
+            this.productbutton3plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton3plus.TabIndex = 7;
+            this.productbutton3plus.Text = "+";
+            this.productbutton3plus.UseVisualStyleBackColor = true;
+            this.productbutton3plus.Click += new System.EventHandler(this.productbutton3plus_Click);
+            // 
+            // labelproduct2
+            // 
+            this.labelproduct2.AutoSize = true;
+            this.labelproduct2.Location = new System.Drawing.Point(193, 297);
+            this.labelproduct2.Name = "labelproduct2";
+            this.labelproduct2.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct2.TabIndex = 6;
+            this.labelproduct2.Text = "0";
+            // 
+            // productbutton2minus
+            // 
+            this.productbutton2minus.Location = new System.Drawing.Point(167, 293);
+            this.productbutton2minus.Name = "productbutton2minus";
+            this.productbutton2minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton2minus.TabIndex = 5;
+            this.productbutton2minus.Text = "-";
+            this.productbutton2minus.UseVisualStyleBackColor = true;
+            this.productbutton2minus.Click += new System.EventHandler(this.productbutton2minus_Click);
+            // 
+            // productbutton2plus
+            // 
+            this.productbutton2plus.Location = new System.Drawing.Point(212, 293);
+            this.productbutton2plus.Name = "productbutton2plus";
+            this.productbutton2plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton2plus.TabIndex = 4;
+            this.productbutton2plus.Text = "+";
+            this.productbutton2plus.UseVisualStyleBackColor = true;
+            this.productbutton2plus.Click += new System.EventHandler(this.productbutton2plus_Click);
+            // 
+            // labelproduct1
+            // 
+            this.labelproduct1.AutoSize = true;
+            this.labelproduct1.Location = new System.Drawing.Point(193, 271);
+            this.labelproduct1.Name = "labelproduct1";
+            this.labelproduct1.Size = new System.Drawing.Size(13, 13);
+            this.labelproduct1.TabIndex = 3;
+            this.labelproduct1.Text = "0";
+            // 
+            // productbutton1minus
+            // 
+            this.productbutton1minus.Location = new System.Drawing.Point(167, 267);
+            this.productbutton1minus.Name = "productbutton1minus";
+            this.productbutton1minus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton1minus.TabIndex = 2;
+            this.productbutton1minus.Text = "-";
+            this.productbutton1minus.UseVisualStyleBackColor = true;
+            this.productbutton1minus.Click += new System.EventHandler(this.productbutton1minus_Click);
+            // 
+            // productbutton1plus
+            // 
+            this.productbutton1plus.Location = new System.Drawing.Point(212, 267);
+            this.productbutton1plus.Name = "productbutton1plus";
+            this.productbutton1plus.Size = new System.Drawing.Size(20, 20);
+            this.productbutton1plus.TabIndex = 1;
+            this.productbutton1plus.Text = "+";
+            this.productbutton1plus.UseVisualStyleBackColor = true;
+            this.productbutton1plus.Click += new System.EventHandler(this.productbutton1plus_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(54, 46);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(126, 181);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.LightCyan;
+            this.panel4.Controls.Add(this.label34);
+            this.panel4.Controls.Add(this.label31);
             this.panel4.Controls.Add(this.pictureBox3);
             this.panel4.Controls.Add(this.pictureBox2);
             this.panel4.Controls.Add(this.label8);
@@ -261,6 +754,41 @@
             this.panel4.Size = new System.Drawing.Size(748, 625);
             this.panel4.TabIndex = 3;
             this.panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.panel4_Paint);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(606, 90);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(40, 40);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 24;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(514, 90);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(40, 40);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 23;
+            this.pictureBox2.TabStop = false;
+            // 
+            // label8
+            // 
+            this.label8.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label8.Location = new System.Drawing.Point(96, 531);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(170, 20);
+            this.label8.TabIndex = 22;
+            this.label8.Text = "22 ΒΑΘΜΟΙ ΚΕΛΣΙΟΥ";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // label7
             // 
@@ -484,6 +1012,7 @@
             // 
             this.progressBar1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.progressBar1.Location = new System.Drawing.Point(494, 531);
+            this.progressBar1.Maximum = 10;
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(83, 27);
             this.progressBar1.TabIndex = 3;
@@ -493,9 +1022,13 @@
             // 
             this.trackBar3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.trackBar3.Location = new System.Drawing.Point(72, 478);
+            this.trackBar3.Maximum = 38;
+            this.trackBar3.Minimum = 12;
             this.trackBar3.Name = "trackBar3";
             this.trackBar3.Size = new System.Drawing.Size(212, 45);
             this.trackBar3.TabIndex = 2;
+            this.trackBar3.Value = 16;
+            this.trackBar3.Scroll += new System.EventHandler(this.trackBar3_Scroll);
             // 
             // trackBar2
             // 
@@ -510,9 +1043,12 @@
             // 
             this.trackBar1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.trackBar1.Location = new System.Drawing.Point(469, 157);
+            this.trackBar1.Maximum = 32;
+            this.trackBar1.Minimum = 16;
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.Size = new System.Drawing.Size(216, 45);
             this.trackBar1.TabIndex = 0;
+            this.trackBar1.Value = 16;
             this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
             // 
             // timer1
@@ -520,505 +1056,29 @@
             this.timer1.Interval = 10;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // label8
-            // 
-            this.label8.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label8.Location = new System.Drawing.Point(96, 531);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(170, 20);
-            this.label8.TabIndex = 22;
-            this.label8.Text = "22 ΒΑΘΜΟΙ ΚΕΛΣΙΟΥ";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(54, 46);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(126, 181);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(167, 267);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(20, 20);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(212, 267);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(20, 20);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(193, 271);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(13, 13);
-            this.label9.TabIndex = 3;
-            this.label9.Text = "0";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(193, 297);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(13, 13);
-            this.label10.TabIndex = 6;
-            this.label10.Text = "0";
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(212, 293);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(20, 20);
-            this.button4.TabIndex = 5;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(167, 293);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(20, 20);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(193, 349);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(13, 13);
-            this.label11.TabIndex = 12;
-            this.label11.Text = "0";
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(212, 345);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(20, 20);
-            this.button6.TabIndex = 11;
-            this.button6.Text = "button6";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(167, 345);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(20, 20);
-            this.button7.TabIndex = 10;
-            this.button7.Text = "button7";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(193, 323);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(13, 13);
-            this.label12.TabIndex = 9;
-            this.label12.Text = "0";
-            // 
-            // button8
-            // 
-            this.button8.Location = new System.Drawing.Point(212, 319);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(20, 20);
-            this.button8.TabIndex = 8;
-            this.button8.Text = "button8";
-            this.button8.UseVisualStyleBackColor = true;
-            // 
-            // button9
-            // 
-            this.button9.Location = new System.Drawing.Point(167, 319);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(20, 20);
-            this.button9.TabIndex = 7;
-            this.button9.Text = "button9";
-            this.button9.UseVisualStyleBackColor = true;
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(193, 401);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(13, 13);
-            this.label13.TabIndex = 18;
-            this.label13.Text = "0";
-            // 
-            // button10
-            // 
-            this.button10.Location = new System.Drawing.Point(212, 397);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(20, 20);
-            this.button10.TabIndex = 17;
-            this.button10.Text = "button10";
-            this.button10.UseVisualStyleBackColor = true;
-            // 
-            // button11
-            // 
-            this.button11.Location = new System.Drawing.Point(167, 397);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(20, 20);
-            this.button11.TabIndex = 16;
-            this.button11.Text = "button11";
-            this.button11.UseVisualStyleBackColor = true;
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(193, 375);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(13, 13);
-            this.label14.TabIndex = 15;
-            this.label14.Text = "0";
-            // 
-            // button12
-            // 
-            this.button12.Location = new System.Drawing.Point(212, 371);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(20, 20);
-            this.button12.TabIndex = 14;
-            this.button12.Text = "button12";
-            this.button12.UseVisualStyleBackColor = true;
-            // 
-            // button13
-            // 
-            this.button13.Location = new System.Drawing.Point(167, 371);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(20, 20);
-            this.button13.TabIndex = 13;
-            this.button13.Text = "button13";
-            this.button13.UseVisualStyleBackColor = true;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(193, 505);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(13, 13);
-            this.label15.TabIndex = 30;
-            this.label15.Text = "0";
-            // 
-            // button14
-            // 
-            this.button14.Location = new System.Drawing.Point(212, 501);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(20, 20);
-            this.button14.TabIndex = 29;
-            this.button14.Text = "button14";
-            this.button14.UseVisualStyleBackColor = true;
-            // 
-            // button15
-            // 
-            this.button15.Location = new System.Drawing.Point(167, 501);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(20, 20);
-            this.button15.TabIndex = 28;
-            this.button15.Text = "button15";
-            this.button15.UseVisualStyleBackColor = true;
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(193, 479);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(13, 13);
-            this.label16.TabIndex = 27;
-            this.label16.Text = "0";
-            // 
-            // button16
-            // 
-            this.button16.Location = new System.Drawing.Point(212, 475);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(20, 20);
-            this.button16.TabIndex = 26;
-            this.button16.Text = "button16";
-            this.button16.UseVisualStyleBackColor = true;
-            // 
-            // button17
-            // 
-            this.button17.Location = new System.Drawing.Point(167, 475);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(20, 20);
-            this.button17.TabIndex = 25;
-            this.button17.Text = "button17";
-            this.button17.UseVisualStyleBackColor = true;
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(193, 453);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(13, 13);
-            this.label17.TabIndex = 24;
-            this.label17.Text = "0";
-            // 
-            // button18
-            // 
-            this.button18.Location = new System.Drawing.Point(212, 449);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(20, 20);
-            this.button18.TabIndex = 23;
-            this.button18.Text = "button18";
-            this.button18.UseVisualStyleBackColor = true;
-            // 
-            // button19
-            // 
-            this.button19.Location = new System.Drawing.Point(167, 449);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(20, 20);
-            this.button19.TabIndex = 22;
-            this.button19.Text = "button19";
-            this.button19.UseVisualStyleBackColor = true;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(193, 427);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(13, 13);
-            this.label18.TabIndex = 21;
-            this.label18.Text = "0";
-            // 
-            // button20
-            // 
-            this.button20.Location = new System.Drawing.Point(212, 423);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(20, 20);
-            this.button20.TabIndex = 20;
-            this.button20.Text = "button20";
-            this.button20.UseVisualStyleBackColor = true;
-            // 
-            // button21
-            // 
-            this.button21.Location = new System.Drawing.Point(167, 423);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(20, 20);
-            this.button21.TabIndex = 19;
-            this.button21.Text = "button21";
-            this.button21.UseVisualStyleBackColor = true;
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(193, 531);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(13, 13);
-            this.label19.TabIndex = 33;
-            this.label19.Text = "0";
-            // 
-            // button22
-            // 
-            this.button22.Location = new System.Drawing.Point(212, 527);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(20, 20);
-            this.button22.TabIndex = 32;
-            this.button22.Text = "button22";
-            this.button22.UseVisualStyleBackColor = true;
-            // 
-            // button23
-            // 
-            this.button23.Location = new System.Drawing.Point(167, 527);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(20, 20);
-            this.button23.TabIndex = 31;
-            this.button23.Text = "button23";
-            this.button23.UseVisualStyleBackColor = true;
-            // 
-            // button24
-            // 
-            this.button24.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button24.Location = new System.Drawing.Point(54, 589);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(126, 33);
-            this.button24.TabIndex = 34;
-            this.button24.Text = "Πληρωμή";
-            this.button24.UseVisualStyleBackColor = true;
-            this.button24.Click += new System.EventHandler(this.button24_Click);
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(44, 14);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(143, 13);
-            this.label20.TabIndex = 35;
-            this.label20.Text = "Είμαστε στην διάθεση σας";
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(77, 239);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(82, 13);
-            this.label21.TabIndex = 36;
-            this.label21.Text = "Τιμοκατάλογος";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(6, 274);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(86, 13);
-            this.label22.TabIndex = 37;
-            this.label22.Text = "Freddo Espresso";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(6, 297);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(94, 13);
-            this.label23.TabIndex = 38;
-            this.label23.Text = "Freddo Cappucino";
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(6, 323);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(66, 13);
-            this.label24.TabIndex = 39;
-            this.label24.Text = "Αναψυκτικό";
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(3, 401);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(41, 13);
-            this.label25.TabIndex = 42;
-            this.label25.Text = "label25";
-            // 
-            // label26
-            // 
-            this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(3, 375);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(41, 13);
-            this.label26.TabIndex = 41;
-            this.label26.Text = "label26";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(3, 349);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(41, 13);
-            this.label27.TabIndex = 40;
-            this.label27.Text = "label27";
-            // 
-            // label28
-            // 
-            this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(3, 479);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(40, 13);
-            this.label28.TabIndex = 45;
-            this.label28.Text = "Μπύρα";
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(3, 453);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(55, 13);
-            this.label29.TabIndex = 44;
-            this.label29.Text = "Επιδόρπιο";
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(3, 427);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(80, 13);
-            this.label30.TabIndex = 43;
-            this.label30.Text = "Πλήρες Γεύμα ";
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(3, 531);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(32, 13);
-            this.label32.TabIndex = 47;
-            this.label32.Text = "Ποτό";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(3, 505);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(36, 13);
-            this.label33.TabIndex = 46;
-            this.label33.Text = "Κρασί";
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(514, 90);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(40, 40);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 23;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(606, 90);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(40, 40);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 24;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(8, 11);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(18, 18);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 25;
-            this.pictureBox4.TabStop = false;
-            // 
-            // radioButton13
-            // 
-            this.radioButton13.AutoSize = true;
-            this.radioButton13.Location = new System.Drawing.Point(30, 565);
-            this.radioButton13.Name = "radioButton13";
-            this.radioButton13.Size = new System.Drawing.Size(70, 17);
-            this.radioButton13.TabIndex = 48;
-            this.radioButton13.TabStop = true;
-            this.radioButton13.Text = "Μετρητά";
-            this.radioButton13.UseVisualStyleBackColor = true;
-            // 
-            // radioButton14
-            // 
-            this.radioButton14.AutoSize = true;
-            this.radioButton14.Location = new System.Drawing.Point(139, 565);
-            this.radioButton14.Name = "radioButton14";
-            this.radioButton14.Size = new System.Drawing.Size(57, 17);
-            this.radioButton14.TabIndex = 49;
-            this.radioButton14.TabStop = true;
-            this.radioButton14.Text = "Κάρτα";
-            this.radioButton14.UseVisualStyleBackColor = true;
+            // label31
+            // 
+            this.label31.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label31.Location = new System.Drawing.Point(490, 205);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(170, 20);
+            this.label31.TabIndex = 25;
+            this.label31.Text = "22 ΒΑΘΜΟΙ ΚΕΛΣΙΟΥ";
+            // 
+            // label34
+            // 
+            this.label34.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label34.AutoSize = true;
+            this.label34.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label34.Location = new System.Drawing.Point(490, 565);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(102, 20);
+            this.label34.TabIndex = 26;
+            this.label34.Text = "0% ΓΕΜΑΤΗ";
             // 
             // Form3
             // 
@@ -1035,17 +1095,17 @@
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.panelSlide.ResumeLayout(false);
             this.panelSlide.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1097,43 +1157,45 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Button button22;
-        private System.Windows.Forms.Button button23;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Label label16;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Button button20;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label labelproduct11;
+        private System.Windows.Forms.Button productbutton11minus;
+        private System.Windows.Forms.Button productbutton11plus;
+        private System.Windows.Forms.Label labelproduct10;
+        private System.Windows.Forms.Button productbutton10minus;
+        private System.Windows.Forms.Button productbutton10plus;
+        private System.Windows.Forms.Label labelproduct9;
+        private System.Windows.Forms.Button productbutton9minus;
+        private System.Windows.Forms.Button productbutton9plus;
+        private System.Windows.Forms.Label labelproduct8;
+        private System.Windows.Forms.Button productbutton8minus;
+        private System.Windows.Forms.Button productbutton8plus;
+        private System.Windows.Forms.Label labelproduct7;
+        private System.Windows.Forms.Button productbutton7minus;
+        private System.Windows.Forms.Button productbutton7plus;
+        private System.Windows.Forms.Label labelproduct6;
+        private System.Windows.Forms.Button productbutton6minus;
+        private System.Windows.Forms.Button productbutton6plus;
+        private System.Windows.Forms.Label labelproduct5;
+        private System.Windows.Forms.Button productbutton5minus;
+        private System.Windows.Forms.Button productbutton5plus;
+        private System.Windows.Forms.Label labelproduct4;
+        private System.Windows.Forms.Button productbutton4minus;
+        private System.Windows.Forms.Button productbutton4plus;
+        private System.Windows.Forms.Label labelproduct3;
+        private System.Windows.Forms.Button productbutton3minus;
+        private System.Windows.Forms.Button productbutton3plus;
+        private System.Windows.Forms.Label labelproduct2;
+        private System.Windows.Forms.Button productbutton2minus;
+        private System.Windows.Forms.Button productbutton2plus;
+        private System.Windows.Forms.Label labelproduct1;
+        private System.Windows.Forms.Button productbutton1minus;
+        private System.Windows.Forms.Button productbutton1plus;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.RadioButton radioButton14;
         private System.Windows.Forms.RadioButton radioButton13;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Label label34;
     }
 }
