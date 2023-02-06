@@ -112,7 +112,7 @@ namespace Interactionerg1
         {
             productvaluetotal = productvalue1 * 4 + productvalue2 * 4 + productvalue3 * 3 + productvalue4 * 3 + productvalue5 * 10 + productvalue6 * 25 + productvalue7 * 10 + productvalue8 * 5 + productvalue9 * 6 + productvalue10 * 10 + productvalue11 * 13;
 
-            if (radioButton14.Checked)
+            if (radioButton13.Checked)
             {
                 MessageBox.Show("Το ποσό πληρωμής είναι " + productvaluetotal);
             }
@@ -326,6 +326,11 @@ namespace Interactionerg1
                 productvalue11 = productvalue11 + 1;
                 labelproduct11.Text = productvalue11.ToString();
             }
+        }
+
+        private void radioButton13_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
